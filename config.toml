@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Census"
+theme = "ons-census"
+
+[params]
+    cdn_url_prefix = "https://cdn.ons.gov.uk/sdc/v1.7.0"

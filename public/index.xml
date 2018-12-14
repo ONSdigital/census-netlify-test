@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Census Rehearsal 2019 on Census</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Census Rehearsal 2019 on Census</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/post/first/</link>
+      <pubDate>Thu, 29 Nov 2018 20:42:29 +0000</pubDate>
+      
+      <guid>http://example.org/post/first/</guid>
+      <description>Hi there. My first Hugo post</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://example.org/post/second/</link>
+      <pubDate>Thu, 29 Nov 2018 20:42:29 +0000</pubDate>
+      
+      <guid>http://example.org/post/second/</guid>
+      <description>my second hugo post</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>The Census rehearsal is a rehearsal for the next UK Census in 2021</description>
+    </item>
+    
+  </channel>
+</rss>
